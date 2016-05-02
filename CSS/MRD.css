@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*#wrapper{
+	height:1020px;
+	width:1020px;
+	margin-left:auto;
+	margin-right:auto;
+}*/
+
+#nav{
+	margin-left:-50px;
+}
+
+h1{
+	font-size:120%;
+	/*font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;*/
+}
+h2{
+font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+ 	color:#333;
+	font-size:120%;
+}
+#jobTitle{
+	margin-top:-50px;
+	padding-top:0px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+ 	color:#333;
+	font-size:120%;
+ 
+}
+
+#smallJobTitle{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:90%;
+	margin-left:20px;
+}
+
+#projectRow{
+	background-image: url("../img/tinyGrid.png");
+	background-repeat:repeat;
+	/*overflow:auto;*/
+}
+
+.projectIcon{
+	padding-top:15px;
+	
+}
+
+.projectDescription{
+	font-size:10px;
+	padding-top:20px;
+	width:200px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	
+	
+}
+
+.projectLink{
+	float:right;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style:strong;
+}
+
+.resumeLink{
+	float:right;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.projectPageDescription{
+	
+	
+}
+
+#iPadPhoto{
+	width:600px;
+	float:left;
+}
